@@ -1,0 +1,51 @@
+_repo: Obras-dramaticas-de-Euripides-3-de-3_75775
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mier, Eduardo de
+    aliases:
+    - De Mier, Eduardo
+    - Barbery, Eduardo de Mier y
+    - Barbery, Eduardo Mier y
+    - Ponleví, Perpetus
+    - Ponlevi, Perpetus
+    - Ponslevi, Perpetus
+    birthdate: 1829
+    deathdate: 1914
+    gutenberg_agent_id: '31718'
+    url: http://www.gutenberg.org/2009/agents/31718
+    wikipedia: https://es.wikipedia.org/wiki/Eduardo_Mier_y_Barbery
+creator:
+  author:
+    agent_name: Euripides
+    aliases:
+    - Ευριπίδης
+    - Eurípides
+    deathdate: -406
+    gutenberg_agent_id: '1680'
+    url: http://www.gutenberg.org/2009/agents/1680
+    wikipedia:
+    - https://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
+    - https://en.wikipedia.org/wiki/Euripides
+description: ''
+gutenberg_issued: '2025-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75775'
+language: es
+pgterms:marc904: https://bibliotecafloridablanca.um.es/bibliotecafloridablanca/handle/11169/7866
+pgterms:marc905: 20231202041758eurpides
+pgterms:marc906: '1909'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by Biblioteca Digital Floridablanca / Fondo antiguo de la Universidad
+  de Murcia.)
+publication_note: '  $aMadrid :$bLibrería de los sucesores de Hernando, $c1909, copyright
+  1909, copyright 1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Obras dramáticas de Eurípides (3 de 3)
+url: http://www.gutenberg.org/ebooks/75775
