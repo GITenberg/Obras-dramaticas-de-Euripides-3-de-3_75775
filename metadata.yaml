@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '31718'
     url: http://www.gutenberg.org/2009/agents/31718
     wikipedia: https://es.wikipedia.org/wiki/Eduardo_Mier_y_Barbery
+covers:
+- cover_type: archival
+  image_path: 75775-h/images/cover.jpg
 creator:
   author:
     agent_name: Euripides
@@ -28,6 +31,8 @@ creator:
     - https://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
     - https://en.wikipedia.org/wiki/Euripides
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75775#Obras-dramaticas-de-Euripides-3-de-3
 gutenberg_issued: '2025-04-02'
 gutenberg_type: Text
 identifiers:
